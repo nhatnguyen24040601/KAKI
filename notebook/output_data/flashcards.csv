@@ -1,0 +1,5 @@
+quiz_id,word_hanzi,pinyin,definition_en,definition_vn,example_sentence,example_pinyin,example_meaning_en,example_meaning_vn,extra_info_md
+3293506e-5deb-4252-8561-712e6a19b468,你好,nǐ hǎo,hello,xin chào,你好，我是李明。,"Nǐ hǎo, wǒ shì Lǐ Míng.","Hello, I am Li Ming.","Xin chào, tôi là Lý Minh.",
+afc84b9f-ad4b-40c9-bff3-eb3f6b82feeb,你,nǐ,you,bạn,你好吗？,Nǐ hǎo ma?,How are you?,Bạn khỏe không?,
+5773ae42-74d8-4596-875f-157f91373a51,谢谢,xièxiè,thank you,cảm ơn,谢谢你的帮助。,Xièxiè nǐ de bāngzhù.,Thank you for your help.,Cảm ơn bạn đã giúp đỡ.,
+9768f750-ce51-4540-9960-6d5fd2420b4c,不客气,bù kèqì,you're welcome,không có chi,谢谢！不客气。,Xièxiè! Bù kèqì.,Thank you! You're welcome.,Cảm ơn! Không có chi.,

@@ -1,0 +1,3 @@
+quiz_id,chinese_sentence,pinyin_sentence,correct_answer,distractors
+26def620-694b-49ba-bb21-c811112d0676,你好，______？,"Nǐ hǎo, ______?",你,"['好', '我']"
+b11b6f8b-50cc-4924-a2e4-79fc925b2899,谢谢! 不客气.,Xièxiè! Bù kèqì.,谢谢,"['你好', '再见']"

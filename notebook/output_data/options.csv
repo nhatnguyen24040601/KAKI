@@ -1,0 +1,10 @@
+quiz_id,text,is_correct,order
+d4e54fa6-66a3-42ef-b15d-4122bd6a638a,You,True,1
+d4e54fa6-66a3-42ef-b15d-4122bd6a638a,Hello,False,2
+d4e54fa6-66a3-42ef-b15d-4122bd6a638a,Good,False,3
+874c9a95-4108-4abc-a344-dedd0f02a3f8,谢谢,True,1
+874c9a95-4108-4abc-a344-dedd0f02a3f8,不客气,False,2
+874c9a95-4108-4abc-a344-dedd0f02a3f8,你好,False,3
+7f733222-354e-49e9-8109-27642694fe22,不客气,True,1
+7f733222-354e-49e9-8109-27642694fe22,谢谢,False,2
+7f733222-354e-49e9-8109-27642694fe22,再见,False,3

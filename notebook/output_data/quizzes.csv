@@ -1,0 +1,12 @@
+id,section_id,quiz_type,question_en,question_vn,explanation_en,explanation_vn,order
+3293506e-5deb-4252-8561-712e6a19b468,cb2aa614-7a93-43ab-b73a-07767d76b349,flashcard,Learn the word 'Hello' in Chinese,Học từ 'Xin chào' trong tiếng Trung,,,1
+afc84b9f-ad4b-40c9-bff3-eb3f6b82feeb,cb2aa614-7a93-43ab-b73a-07767d76b349,flashcard,Learn the word 'You' in Chinese,Học từ 'Bạn' trong tiếng Trung,,,2
+d4e54fa6-66a3-42ef-b15d-4122bd6a638a,974ac401-003a-4aaa-b5d9-195ad6b5d6a5,single_choice,What does '你' mean?,'你' có nghĩa là gì?,,,1
+26def620-694b-49ba-bb21-c811112d0676,974ac401-003a-4aaa-b5d9-195ad6b5d6a5,sentence,Complete the greeting: 你好，______？,Hoàn thành lời chào: 你好，______？,,,2
+474025f8-e4ac-4f54-a338-b56d3535bd01,a3141106-9666-4834-a7f7-48cf32cc439d,text_response,Write 'hello' in Chinese.,Viết 'xin chào' bằng tiếng Trung.,,,1
+92a85464-2f06-494d-b15e-22e141dc9b5b,a3141106-9666-4834-a7f7-48cf32cc439d,speaking,Say '你好' (nǐ hǎo) out loud.,Nói '你好' (nǐ hǎo) to.,,,2
+5773ae42-74d8-4596-875f-157f91373a51,eaa2c10c-9c3f-4f56-9c04-57a6b730ac3f,flashcard,Learn the word 'xiexie'.,Học từ 'xiexie'.,,,1
+9768f750-ce51-4540-9960-6d5fd2420b4c,eaa2c10c-9c3f-4f56-9c04-57a6b730ac3f,flashcard,Learn the phrase 'bu keqi'.,Học cụm từ 'bu keqi'.,,,2
+874c9a95-4108-4abc-a344-dedd0f02a3f8,85e9b53a-a359-4208-a122-6902b430bff6,single_choice,How do you say 'thank you' in Chinese?,Bạn nói 'cảm ơn' trong tiếng Trung như thế nào?,,,1
+7f733222-354e-49e9-8109-27642694fe22,85e9b53a-a359-4208-a122-6902b430bff6,single_choice,What is the correct response to '谢谢' in Chinese?,Đáp lại '谢谢' trong tiếng Trung như thế nào?,,,2
+b11b6f8b-50cc-4924-a2e4-79fc925b2899,28d68636-59df-4f93-b8cc-831e362f90d8,sentence,Fill in the blank: '___! 不客气.',Điền vào chỗ trống: '___! 不客气.',,,1
