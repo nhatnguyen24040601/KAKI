@@ -1,1 +1,49 @@
-
+quiz_id,left_text,right_text,order
+6,你,nǐ — you,1
+6,好,hǎo — good/well,2
+6,我,wǒ — I/me,3
+6,叫,jiào — to be called,4
+7,你好,nǐ hǎo — hello,1
+7,你,nǐ — you,2
+7,我,wǒ — I/me,3
+7,叫,jiào — to be called,4
+8,你,nǐ — you,1
+8,他,tā — he (confusable),2
+8,好,hǎo — good,3
+8,我,wǒ — I,4
+17,你好,nǐ hǎo,1
+17,我,wǒ,2
+17,你,nǐ,3
+17,叫,jiào,4
+73,你,you,1
+73,好,good,2
+73,我,I / me,3
+73,叫,to be called,4
+76,nǐ,你,1
+76,wǒ,我,2
+76,jiào,叫,3
+76,nǐ hǎo,你好,4
+79,你好。,Hello.,1
+79,我叫李明。,My name is Li Ming.,2
+79,你叫什么名字？,What is your name?,3
+79,我很好。,I am very well.,4
+82,你,you,1
+82,他,he (confusable),2
+82,好,good,3
+82,我,I,4
+85,nǐ hǎo,你好,1
+85,wǒ jiào,我叫,2
+85,shénme,什么,3
+85,míngzi,名字,4
+88,你好。,nǐ hǎo。,1
+88,我叫李明。,wǒ jiào Lǐ Míng。,2
+88,你叫什么名字？,nǐ jiào shénme míngzi？,3
+88,我很好。,wǒ hěn hǎo。,4
+131,谢谢,xièxie — thank you,1
+131,不客气,bú kèqi — you're welcome,2
+131,再见,zàijiàn — goodbye,3
+131,对不起,duìbuqǐ — sorry,4
+143,A: 谢谢。B: 不客气。,A: Thank you. B: You're welcome.,1
+143,A: 对不起。B: 没关系。,A: Sorry. B: It's okay.,2
+143,A: 我要走了。B: 再见！,A: I'm leaving. B: Goodbye!,3
+143,A: 老师再见！B: 再见，学生！,"A: Goodbye teacher! B: Goodbye, student!",4

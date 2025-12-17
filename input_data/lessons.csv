@@ -1,0 +1,3 @@
+course_id,lesson_id,title,description_en,description_vi,order,is_active,learning_objectives,content_md
+1,1,Hello - Nǐ hǎo,Learn how to greet people and introduce yourself.,Học cách chào hỏi và giới thiệu bản thân.,1,True,"['nǐ hǎo (Hello)', 'nǐ (You)', 'hǎo (Good)', 'wǒ (I/Me)', 'jiào (To be called)']",
+1,2,Thank you - Xièxie,Learn to express gratitude and apologize.,Học cách bày tỏ lòng biết ơn và xin lỗi.,2,True,"['xièxie (Thank you)', 'bú kèqi (You are welcome)', 'zàijiàn (Goodbye)', 'duìbuqǐ (Sorry)']",

@@ -1,24 +1,15 @@
-id,lesson_key,section_type,title_en,title_vn,content_md,order
-cb2aa614-7a93-43ab-b73a-07767d76b349,Hello - Ni Hao,vocabulary,Vocabulary,Từ vựng,,1
-974ac401-003a-4aaa-b5d9-195ad6b5d6a5,Hello - Ni Hao,grammar,Grammar,Ngữ pháp,"### Basic Greeting Structure
-In Chinese, a common way to greet someone is by saying **你好 (nǐ hǎo)**, which means 'hello'.
-
-- **你 (nǐ)** means 'you'.
-- **好 (hǎo)** means 'good'.
-
-Together, 你好 conveys a friendly greeting similar to saying 'hello' in English.",2
-a3141106-9666-4834-a7f7-48cf32cc439d,Hello - Ni Hao,practice,Practice,Luyện tập,,3
-eaa2c10c-9c3f-4f56-9c04-57a6b730ac3f,Thank you - Xie Xie,vocabulary,Vocabulary,Từ vựng,,1
-85e9b53a-a359-4208-a122-6902b430bff6,Thank you - Xie Xie,grammar,Grammar,Ngữ pháp,"### Expressing Gratitude and Responding
-
-In Chinese, expressing gratitude is often done with the phrase **谢谢 (xièxiè)**, meaning 'thank you'.
-
-To respond to someone thanking you, you can use **不客气 (bù kèqì)**, which means 'you're welcome'.
-
-#### Structure:
-- **谢谢 + [person/thing]**
-- **谢谢你的帮助 (Xièxiè nǐ de bāngzhù)** - 'Thank you for your help.'
-
-For response:
-- **不客气 (Bù kèqì)** - 'You're welcome.'",2
-28d68636-59df-4f93-b8cc-831e362f90d8,Thank you - Xie Xie,practice,Practice,Luyện tập,,3
+id,lesson_key,section_type,title_en,title_vi,content_md,order
+1,Hello - Nǐ hǎo,Vocabulary,Core Words: Hello and Pronouns,Từ vựng chính: Xin chào và Đại từ,"Introduce the five target lexical items (你好, 你, 好, 我, 叫) with characters, pinyin, tones, example sentences, and matching activities. Note: pinyin is lower-case with spaces and tone marks (e.g., nǐ hǎo).",1
+2,Hello - Nǐ hǎo,Speaking,Pronunciation & Tones,Phát âm & Thanh điệu,"Practice tones and syllable segmentation for nǐ, hǎo, wǒ, jiào, and the phrase nǐ hǎo. Focus on initials (n-, h-, w-, j-) and finals (-i, -ao, -o, -iao).",2
+3,Hello - Nǐ hǎo,Listening,Recognizing Greetings & Introductions,Nghe nhận biết lời chào & Tự giới thiệu,"Receptive practice with audio clips for 你好, 我叫 + name, 你叫什么名字？. Audio placeholders marked as TODO must be replaced with native speaker recordings before deployment. Each listening item indicates which string the audio should contain.",3
+4,Hello - Nǐ hǎo,Grammar,Basic Introduction Structure: 我叫...,Cấu trúc giới thiệu cơ bản: 我叫...,"Practice Subject + 叫 + name and the fixed greeting 你好. Contrast 你 vs 我. Note: 很高兴认识你 is optional (HSK1 extension), not required for graded items.",4
+5,Hello - Nǐ hǎo,Reading,Characters & Short Sentences,Chữ Hán & Câu ngắn,"Read and recognize 你好, 我, 你, 好, 叫 in short sentences. Practice mapping pinyin to characters.",5
+6,Hello - Nǐ hǎo,Conversation,Role-play: Greeting and Introducing Yourself,Đóng vai: Chào hỏi và Tự giới thiệu,Guided dialogues: A: 你好！ B: 你好！ A: 你叫什么名字？ B: 我叫...。Practice substituting names and turn-taking. 很高兴认识你 is optional (extension).,6
+7,Hello - Nǐ hǎo,Final Test,"Mixed Review: Recognition, Production, Comprehension","Ôn tập tổng hợp: Nhận biết, Sản xuất, Hiểu","A short mixed-format test covering vocabulary, pronunciation, listening, simple grammar, and a spoken self-introduction. Note: optional colloquial forms (e.g., '叫我 + name') are marked as colloquial and not required for HSK1 core scoring.",7
+8,Thank you - Xièxie,Vocabulary,Core polite expressions (Flashcards),Các cụm lịch sự chính (Thẻ từ),"Introduce four target polite expressions in hanzi, pinyin, and meaning. Note: pinyin uses lowercase with tone marks. Second syllable of xièxie is commonly neutral in speech.",1
+9,Thank you - Xièxie,Speaking,Pronunciation & tones of the phrases,Phát âm & thanh điệu của các cụm,Practice correct tones and common neutral-tone realizations. All pinyin uses lowercase with tone marks.,2
+10,Thank you - Xièxie,Grammar,Usage rules and polite response patterns,Quy tắc sử dụng và mẫu trả lời lịch sự,When to use 谢谢 / 不客气 / 对不起 / 再见. Note: 没关系 is primarily a reply to apologies; it can sometimes be used after thanks but is not the default 'you're welcome'.,3
+11,Thank you - Xièxie,Listening,Recognize expressions in short dialogues (Audio),Nhận diện cụm trong hội thoại ngắn (Nghe),Listen for the target phrases in short dialogues. Audio URLs are placeholders (none provided). Questions emphasize recognition and correct reply selection.,4
+12,Thank you - Xièxie,Reading,Read and comprehend short dialogues,Đọc và hiểu hội thoại ngắn,Short dialogues using target phrases. Identify speaker roles and meanings.,5
+13,Thank you - Xièxie,Conversation,Role-play situational dialogues,Đóng vai hội thoại theo tình huống,"Produce the target phrases naturally in short role-plays: shop, classroom, leaving, apologizing.",6
+14,Thank you - Xièxie,Final Test,Integrated review: recognition + production,Kiểm tra tổng hợp: nhận diện + sản xuất,"Mix of recognition (characters, pinyin, meaning), listening comprehension, and production (speak/type) for the four target expressions and common replies.",7
