@@ -1,3 +1,144 @@
-course_id,lesson_id,title,description_en,description_vi,order,is_active,learning_objectives,content_md
-1,1,Hello - Nǐ hǎo,Learn how to greet people and introduce yourself.,Học cách chào hỏi và giới thiệu bản thân.,1,True,"['nǐ hǎo (Hello)', 'nǐ (You)', 'hǎo (Good)', 'wǒ (I/Me)', 'jiào (To be called)']",
-1,2,Thank you - Xièxie,Learn to express gratitude and apologize.,Học cách bày tỏ lòng biết ơn và xin lỗi.,2,True,"['xièxie (Thank you)', 'bú kèqi (You are welcome)', 'zàijiàn (Goodbye)', 'duìbuqǐ (Sorry)']",
+id,course,title,description_vi,description_en,order,is_active,learning_objectives,content_md,word_to_learn
+1,1,你好,Xin chào!,Hello,1,TRUE,Master basic greetings; Introduction to Pinyin and tones.,## New Words (生词)\n- 你 (nǐ): You\n- 好 (hǎo): Good\n\n## Grammar\n1. **The greeting 你好**: Used to say hello to one person.\n2. **Simple Sentence**: Subject + Predicate.,"[ {""word"": ""你"", ""slug"": ""nǐ""}, {""word"": ""好"", ""slug"": ""hǎo""}, {""word"": ""您"", ""slug"": ""nín""}, {""word"": ""们"", ""slug"": ""men""}, {""word"": ""对"", ""slug"": ""duì""}, {""word"": ""起"", ""slug"": ""qǐ""}, {""word"": ""没"", ""slug"": ""méi""}, {""word"": ""关"", ""slug"": ""guān""}, {""word"": ""系"", ""slug"": ""xì""} ]"
+2,1,谢谢你,Cảm ơn bạn.,Thank you,2,TRUE,Expressing gratitude and apologies; Basic polite interactions.,"## New Words (生词)\n- 谢谢 (xièxie): To thank\n- 不 (bù): No, not\n- 不客气 (bú kèqi): You're welcome\n\n## Grammar\n1. **Negation with 不**: Placing 'bù' before a verb or adjective.","[
+    {""word"": ""谢"", ""slug"": ""xiè""},
+    {""word"": ""不"", ""slug"": ""bù""},
+    {""word"": ""客"", ""slug"": ""kè""},
+    {""word"": ""气"", ""slug"": ""qì""},
+    {""word"": ""再"", ""slug"": ""zài""},
+    {""word"": ""见"", ""slug"": ""jiàn""}
+  ]"
+3,1,你叫什么名字,Tên bạn là gì?,What's your name?,3,TRUE,Asking for names; Expressing nationality; Numbers 1-10.,## New Words (生词)\n- 叫 (jiào): To be called\n- 什么 (shénme): What\n- 名字 (míngzi): Name\n\n## Grammar\n1. **Interrogative Pronouns**: Using 'shénme' to ask 'what'.\n2. **The verb 是 (shì)**: To be.,"[
+    {""word"": ""叫"", ""slug"": ""jiào""},
+    {""word"": ""什"", ""slug"": ""shén""},
+    {""word"": ""么"", ""slug"": ""me""},
+    {""word"": ""名"", ""slug"": ""míng""},
+    {""word"": ""字"", ""slug"": ""zì""},
+    {""word"": ""我"", ""slug"": ""wǒ""},
+    {""word"": ""是"", ""slug"": ""shì""},
+    {""word"": ""老"", ""slug"": ""lǎo""},
+    {""word"": ""师"", ""slug"": ""shī""},
+    {""word"": ""吗"", ""slug"": ""ma""},
+    {""word"": ""学"", ""slug"": ""xué""},
+    {""word"": ""生"", ""slug"": ""shēng""},
+    {""word"": ""人"", ""slug"": ""rén""},
+    {""word"": ""李"", ""slug"": ""lǐ""},
+    {""word"": ""月"", ""slug"": ""yuè""},
+    {""word"": ""中"", ""slug"": ""zhōng""},
+    {""word"": ""国"", ""slug"": ""guó""},
+    {""word"": ""美"", ""slug"": ""měi""}
+  ]"
+4,1,她是我的汉语老师,Cô ấy là giáo viên tiếng Trung của tôi,She is my Chinese teacher,4,TRUE,Identifying people; Occupations; The particle 'de'.,"## New Words (生词)\n- 她 (tā): She\n- 老师 (lǎoshī): Teacher\n- 的 (de): Possessive particle\n\n## Grammar\n1. **Possession with 的**: Noun + 的 + Noun (e.g., My teacher).","[
+    {""word"": ""她"", ""slug"": ""tā""},
+    {""word"": ""汉"", ""slug"": ""hàn""},
+    {""word"": ""语"", ""slug"": ""yǔ""},
+    {""word"": ""的"", ""slug"": ""de""},
+    {""word"": ""呢"", ""slug"": ""ne""},
+    {""word"": ""哥"", ""slug"": ""gē""},
+    {""word"": ""他"", ""slug"": ""tā""},
+    {""word"": ""同"", ""slug"": ""tóng""},
+    {""word"": ""朋"", ""slug"": ""péng""},
+    {""word"": ""友"", ""slug"": ""yǒu""}
+  ]"
+5,1,她女儿今年二十岁,Con gái cô ấy năm nay 20 tuổi.,Her daughter is 20 years old this year,5,TRUE,Talking about age; Family members; Numbers 11-100.,## New Words (生词)\n- 女儿 (nǚ'ér): Daughter\n- 岁 (suì): Years old\n- 多 (duō): How many/much\n\n## Grammar\n1. **Asking Age**: 你多大? (How old are you?)\n2. **Numbers**: Counting past 10.,"[
+    {""word"": ""家"", ""slug"": ""jiā""},
+    {""word"": ""有"", ""slug"": ""yǒu""},
+    {""word"": ""四"", ""slug"": ""sì""},
+    {""word"": ""女"", ""slug"": ""nǚ""},
+    {""word"": ""儿"", ""slug"": ""ér""},
+    {""word"": ""岁"", ""slug"": ""suì""},
+    {""word"": ""了"", ""slug"": ""le""},
+    {""word"": ""今"", ""slug"": ""jīn""},
+    {""word"": ""年"", ""slug"": ""nián""},
+    {""word"": ""多"", ""slug"": ""duō""},
+    {""word"": ""大"", ""slug"": ""dà""}
+  ]"
+6,1,我会说汉语,Tôi có thể nói tiếng Trung.,I can speak Chinese,6,TRUE,Expressing ability with 'hui'; Languages and skills.,"## New Words (生词)\n- 会 (huì): Can, to be able to\n- 说 (shuō): To speak\n- 汉语 (Hànyǔ): Chinese language\n\n## Grammar\n1. **Modal Verb 会**: Subject + 会 + Verb (Expressing learned ability).","[ {""word"": ""会"", ""slug"": ""huì""}, {""word"": ""说"", ""slug"": ""shuō""}, {""word"": ""妈"", ""slug"": ""mā""}, {""word"": ""菜"", ""slug"": ""cài""}, {""word"": ""很"", ""slug"": ""hěn""}, {""word"": ""吃"", ""slug"": ""chī""}, {""word"": ""做"", ""slug"": ""zuò""}, {""word"": ""写"", ""slug"": ""xiě""}, {""word"": ""怎"", ""slug"": ""zěn""}, {""word"": ""读"", ""slug"": ""dú""} ]"
+7,1,今天几号,Hôm nay là ngày mấy?,What's the date today,7,TRUE,Asking about dates; Days of the week; Months.,"## New Words (生词)\n- 今天 (jīntiān): Today\n- 号 (hào): Date/Number\n- 月 (yuè): Month\n\n## Grammar\n1. **Date Format**: Year + Month + Date.\n2. **Nominal Predicates**: Sentences without a verb (e.g., Today is Monday).","[
+    {""word"": ""请"", ""slug"": ""qǐng""},
+    {""word"": ""问"", ""slug"": ""wèn""},
+    {""word"": ""天"", ""slug"": ""tiān""},
+    {""word"": ""号"", ""slug"": ""hào""},
+    {""word"": ""星"", ""slug"": ""xīng""},
+    {""word"": ""期"", ""slug"": ""qī""},
+    {""word"": ""明"", ""slug"": ""míng""},
+    {""word"": ""昨"", ""slug"": ""zuó""},
+    {""word"": ""去"", ""slug"": ""qù""},
+    {""word"": ""校"", ""slug"": ""xiào""},
+    {""word"": ""看"", ""slug"": ""kàn""},
+    {""word"": ""书"", ""slug"": ""shū""}
+  ]"
+8,1,我想喝茶,Tôi muốn uống trà.,I'd like some tea,8,TRUE,Ordering food/drink; Expressing desires with 'xiang'; Measure words.,"## New Words (生词)\n- 想 (xiǎng): To want/would like\n- 喝 (hē): To drink\n- 茶 (chá): Tea\n\n## Grammar\n1. **Optative Verb 想**: Expressing a desire or plan.\n2. **Measure Words**: 个 (gè), 杯 (bēi).","[
+    {""word"": ""想"", ""slug"": ""xiǎng""},
+    {""word"": ""喝"", ""slug"": ""hē""},
+    {""word"": ""茶"", ""slug"": ""chá""},
+    {""word"": ""米"", ""slug"": ""mǐ""},
+    {""word"": ""饭"", ""slug"": ""fàn""},
+    {""word"": ""下"", ""slug"": ""xià""},
+    {""word"": ""商"", ""slug"": ""shāng""},
+    {""word"": ""店"", ""slug"": ""diàn""},
+    {""word"": ""这"", ""slug"": ""zhè""},
+    {""word"": ""个"", ""slug"": ""gè""},
+    {""word"": ""杯"", ""slug"": ""bēi""},
+    {""word"": ""子"", ""slug"": ""zi""},
+    {""word"": ""少"", ""slug"": ""shǎo""},
+    {""word"": ""钱"", ""slug"": ""qián""},
+    {""word"": ""块"", ""slug"": ""kuài""},
+    {""word"": ""那"", ""slug"": ""nà""}
+  ]"
+9,1,你儿子在哪里工作?,Con trai bạn làm việc ở đâu?,Where does your son work?,9,TRUE,Asking about locations; The verb 'zai'; Family jobs.,"## New Words (生词)\n- 在 (zài): At, in, on\n- 哪里 (nǎli): Where\n- 工作 (gōngzuò): Work/Job\n\n## Grammar\n1. **Location**: Subject + 在 + Place + Verb.","[
+    {""word"": ""小"", ""slug"": ""xiǎo""},
+    {""word"": ""猫"", ""slug"": ""māo""},
+    {""word"": ""在"", ""slug"": ""zài""},
+    {""word"": ""哪"", ""slug"": ""nǎ""},
+    {""word"": ""狗"", ""slug"": ""gǒu""},
+    {""word"": ""椅"", ""slug"": ""yǐ""},
+    {""word"": ""面"", ""slug"": ""miàn""},
+    {""word"": ""医"", ""slug"": ""yī""},
+    {""word"": ""院"", ""slug"": ""yuàn""},
+    {""word"": ""爸"", ""slug"": ""bà""}
+  ]"
+10,1,我能坐这儿吗,Tôi có thể ngồi đây không?,Can I sit here?,10,TRUE,Asking for permission with 'neng'; Locations (here/there).,## New Words (生词)\n- 能 (néng): Can/May\n- 坐 (zuò): To sit\n- 这儿 (zhèr): Here\n\n## Grammar\n1. **Modal Verb 能**: Expressing possibility or permission.\n2. **Yes/No Questions**: Using 吗 (ma) at the end.,"[
+    {""word"": ""桌"", ""slug"": ""zhuō""},
+    {""word"": ""上"", ""slug"": ""shàng""},
+    {""word"": ""电"", ""slug"": ""diàn""},
+    {""word"": ""脑"", ""slug"": ""nǎo""},
+    {""word"": ""和"", ""slug"": ""hé""},
+    {""word"": ""本"", ""slug"": ""běn""},
+    {""word"": ""里"", ""slug"": ""lǐ""},
+    {""word"": ""前"", ""slug"": ""qián""},
+    {""word"": ""后"", ""slug"": ""hòu""},
+    {""word"": ""能"", ""slug"": ""néng""},
+    {""word"": ""坐"", ""slug"": ""zuò""},
+    {""word"": ""王"", ""slug"": ""wáng""},
+    {""word"": ""方"", ""slug"": ""fāng""}
+  ]"
+11,1,现在几点,Bây giờ là mấy giờ?,What's the time now,11,TRUE,Asking and telling time; Daily routines.,## New Words (生词)\n- 现在 (xiànzài): Now\n- 点 (diǎn): O'clock\n- 分 (fēn): Minute\n\n## Grammar\n1. **Telling Time**: Hour + 点 + Minute + 分.,"[
+    {""word"": ""现"", ""slug"": ""xiàn""},
+    {""word"": ""点"", ""slug"": ""diǎn""},
+    {""word"": ""分"", ""slug"": ""fēn""},
+    {""word"": ""午"", ""slug"": ""wǔ""},
+    {""word"": ""时"", ""slug"": ""shí""},
+    {""word"": ""候"", ""slug"": ""hòu""},
+    {""word"": ""回"", ""slug"": ""huí""},
+    {""word"": ""影"", ""slug"": ""yǐng""},
+    {""word"": ""住"", ""slug"": ""zhù""},
+    {""word"": ""北"", ""slug"": ""běi""},
+    {""word"": ""京"", ""slug"": ""jīng""}
+  ]"
+12,1,明天天气怎么样,Ngày mai thời tiết như thế nào?,What will the weather be like tomorrow?,12,TRUE,Describing weather; Future time expressions.,## New Words (生词)\n- 天气 (tiānqì): Weather\n- 怎么样 (zěnmeyàng): How is it?\n- 下雨 (xià yǔ): To rain\n\n## Grammar\n1. **Asking Condition**: Subject + 怎么样?,"[
+    {""word"": ""样"", ""slug"": ""yàng""},
+    {""word"": ""太"", ""slug"": ""tài""},
+    {""word"": ""热"", ""slug"": ""rè""},
+    {""word"": ""冷"", ""slug"": ""lěng""},
+    {""word"": ""雨"", ""slug"": ""yǔ""},
+    {""word"": ""姐"", ""slug"": ""jiě""},
+    {""word"": ""来"", ""slug"": ""lái""},
+    {""word"": ""身"", ""slug"": ""shēn""},
+    {""word"": ""体"", ""slug"": ""tǐ""},
+    {""word"": ""水"", ""slug"": ""shuǐ""},
+    {""word"": ""果"", ""slug"": ""guǒ""}
+  ]"
+13,1,他在学做中国菜呢,Anh ấy đang học nấu món ăn Trung Quốc.,He is learning to cook Chinese food,13,TRUE,Present continuous actions; Food vocabulary.,## New Words (生词)\n- 做 (zuò): To do/make\n- 菜 (cài): Dish/Cuisine\n- 呢 (ne): Particle for ongoing action\n\n## Grammar\n1. **Progressive Aspect**: Subject + 在 + Verb + 呢 (Action in progress).,"[ {""word"": ""喂"", ""slug"": ""wèi""}, {""word"": ""习"", ""slug"": ""xí""}, {""word"": ""晚"", ""slug"": ""wǎn""}, {""word"": ""安"", ""slug"": ""ān""}, {""word"": ""视"", ""slug"": ""shì""}, {""word"": ""喜"", ""slug"": ""xǐ""}, {""word"": ""欢"", ""slug"": ""huān""}, {""word"": ""唱"", ""slug"": ""chàng""}, {""word"": ""歌"", ""slug"": ""gē""}, {""word"": ""打"", ""slug"": ""dǎ""}, {""word"": ""话"", ""slug"": ""huà""}, {""word"": ""吧"", ""slug"": ""ba""}, {""word"": ""卫"", ""slug"": ""wèi""} ]"
+14,1,她买了不少衣服,Cô ấy đã mua khá nhiều quần áo.,She has bought quite a few clothes,14,TRUE,Past actions with 'le'; Shopping; Quantity expressions.,## New Words (生词)\n- 买 (mǎi): To buy\n- 衣服 (yīfu): Clothes\n- 了 (le): Aspect particle\n\n## Grammar\n1. **Completed Action**: Verb + 了 (Indicates completion).,"[ {""word"": ""东"", ""slug"": ""dōng""}, {""word"": ""西"", ""slug"": ""xī""}, {""word"": ""一"", ""slug"": ""yī""}, {""word"": ""苹"", ""slug"": ""píng""}, {""word"": ""先"", ""slug"": ""xiān""}, {""word"": ""开"", ""slug"": ""kāi""}, {""word"": ""牛"", ""slug"": ""niú""}, {""word"": ""钟"", ""slug"": ""zhōng""}, {""word"": ""衣"", ""slug"": ""yī""}, {""word"": ""服"", ""slug"": ""fú""}, {""word"": ""洗"", ""slug"": ""xǐ""}, {""word"": ""澡"", ""slug"": ""zǎo""}, {""word"": ""帅"", ""slug"": ""shuài""}, {""word"": ""些"", ""slug"": ""xiē""}, {""word"": ""帮"", ""slug"": ""bāng""}, {""word"": ""张"", ""slug"": ""zhāng""} ]"
+15,1,我是坐飞机来的,Tôi đến đây bằng máy bay.,I came here by air,15,TRUE,Transportation; The 'shi...de' structure for emphasis.,"## New Words (生词)\n- 飞机 (fēijī): Airplane\n- 坐 (zuò): To take (transport)\n- 怎么 (zěnme): How\n\n## Grammar\n1. **The 是...的 Construction**: Used to emphasize time, place, or manner of a past event.","[ {""word"": ""认"", ""slug"": ""rèn""}, {""word"": ""识"", ""slug"": ""shí""}, {""word"": ""贵"", ""slug"": ""guì""}, {""word"": ""出"", ""slug"": ""chū""}, {""word"": ""租"", ""slug"": ""zū""}, {""word"": ""车"", ""slug"": ""chē""}, {""word"": ""高"", ""slug"": ""gāo""}, {""word"": ""兴"", ""slug"": ""xìng""}, {""word"": ""听"", ""slug"": ""tīng""}, {""word"": ""飞"", ""slug"": ""fēi""}, {""word"": ""机"", ""slug"": ""jī""} ]"

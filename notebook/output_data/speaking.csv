@@ -1,19 +1,12 @@
 quiz_id,expected_text,expected_pinyin,time_limit
-19,你好,nǐ hǎo,12
-20,我,wǒ,10
-21,叫,jiào,10
-24,我叫李明。,wǒ jiào Lǐ Míng,15
-25,你好,nǐ hǎo,12
-30,你叫什么名字？,nǐ jiào shénme míngzi？,15
-33,我叫。,wǒ jiào ...,15
-96,你好。你叫什么名字？,nǐ hǎo。 nǐ jiào shénme míngzi？,20
-97,你好。我叫李明。,nǐ hǎo。 wǒ jiào Lǐ Míng。,20
-103,你好。我叫。,nǐ hǎo。 wǒ jiào ...,20
-108,A: 你好。 B: 我叫李明。你呢？,A: nǐ hǎo。 B: wǒ jiào Lǐ Míng。 nǐ ne？,25
-116,我叫。,wǒ jiào ...,15
-124,我叫。,wǒ jiào ...,15
-132,谢谢,xièxie,12
-133,不客气,bú kèqi,12
-134,再见,zàijiàn,12
-135,对不起,duìbuqǐ,12
-150,不客气,bú kèqi,15
+35,你好,nǐ hǎo,10
+36,再见,zài jiàn,10
+37,早上好,zǎo shàng hǎo,10
+38,晚上好,wǎn shàng hǎo,10
+39,早上好,zǎo shàng hǎo,10
+40,再见,zài jiàn,10
+41,晚上好,wǎn shàng hǎo,10
+42,你好,nǐ hǎo,10
+66,早上好,zǎo shàng hǎo,10
+84,早上好,zǎo shàng hǎo,10
+85,晚上好,wǎn shàng hǎo,10

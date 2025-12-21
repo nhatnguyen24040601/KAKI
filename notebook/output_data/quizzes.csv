@@ -1,151 +1,108 @@
-id,section_id,quiz_type,question_en,question_vi,audio_url,image_url,explanation_en,explanation_vi,order
-1,1,Flashcard,Flashcard: 你好,Thẻ từ: 你好,,,,,1
-2,1,Flashcard,Flashcard: 你,Thẻ từ: 你,,,,,2
-3,1,Flashcard,Flashcard: 好,Thẻ từ: 好,,,,,3
-4,1,Flashcard,Flashcard: 我,Thẻ từ: 我,,,,,4
-5,1,Flashcard,Flashcard: 叫,Thẻ từ: 叫,,,,,5
-6,1,Match Pairs,Match the Hanzi to Pinyin (pairs include meaning),Ghép chữ Hán với pinyin (kèm nghĩa),,,,,6
-7,1,Match Pairs,Match: two-character word to pinyin/meaning,Ghép: từ hai chữ với pinyin/nghĩa,,,,,7
-8,1,Match Pairs,Match characters to meanings (confusable distractors included),Ghép chữ với nghĩa (có các phương án gây nhầm),,,,,8
-9,1,Single Choice,Which character matches the pinyin 'nǐ'?,Chữ nào tương ứng với pinyin 'nǐ'?,,,,,9
-10,1,Single Choice,Which character matches the pinyin 'wǒ'?,Chữ nào tương ứng với pinyin 'wǒ'?,,,,,10
-11,1,Single Choice,Which character matches the pinyin 'jiào'?,Chữ nào tương ứng với pinyin 'jiào'?,,,,,11
-12,1,Single Choice,Which two-character word is 'hello' in Chinese?,Từ hai chữ nào là 'xin chào' bằng tiếng Trung?,,,,,12
-13,1,Single Choice,Which character is commonly used for 'good' in greetings?,Chữ nào thường dùng để nói 'tốt' trong lời chào?,,,,,13
-14,1,Single Choice,Which character means 'to call / to be called'?,Chữ nào nghĩa là 'gọi / được gọi là'?,,,,,14
-15,1,Single Choice,Which character is often paired with 你 to make a greeting?,Chữ nào thường đi với 你 để tạo thành lời chào?,,,,,15
-16,1,Single Choice,"Which item is NOT one of the five target words (你好, 你, 好, 我, 叫)?","Mục nào KHÔNG phải một trong năm từ mục tiêu (你好, 你, 好, 我, 叫)?",,,,,16
-17,1,Match Pairs,Match characters to pinyin (include tone marks) — practice recognition,Ghép chữ với pinyin (có dấu thanh) — luyện nhận biết,,,,,17
-18,1,Single Choice,Which pinyin corresponds to 我?,Pinyin nào tương ứng với 我?,,,,,18
-19,2,Speaking,Pronounce: nǐ hǎo (Say hello aloud),Phát âm: nǐ hǎo (Nói 'xin chào'),,,,,1
-20,2,Speaking,Pronounce: wǒ (Say 'I' aloud),Phát âm: wǒ (Nói 'tôi'),,,,,2
-21,2,Speaking,Pronounce: jiào (Say 'jiào' aloud),Phát âm: jiào (Nói 'jiào'),,,,,3
-22,2,Listening,What did you hear? (tone discrimination: nǐ vs nì vs nǐ́),Bạn nghe thấy gì? (phân biệt thanh: nǐ vs nì vs nǐ́),AUDIO_TODO: replace with native clip saying 'nǐ' (third tone).,,,,4
-23,2,Listening,What did you hear? (tone discrimination: hǎo vs háo vs hào),Bạn nghe thấy gì? (phân biệt thanh: hǎo vs háo vs hào),AUDIO_TODO: replace with native clip saying 'hǎo' (third tone).,,,,5
-24,2,Speaking,Record: Say 'Wǒ jiào Lǐ Míng.',Ghi âm: Nói 'Wǒ jiào Lǐ Míng.',,,,,6
-25,2,Speaking,Record: Say 'Nǐ hǎo' naturally (two-syllable phrase).,Ghi âm: Nói 'Nǐ hǎo' tự nhiên (hai âm tiết).,,,,,7
-26,2,Listening,What did you hear? (word-level: wǒ / wò / wú),Bạn nghe thấy gì? (từ đơn: wǒ / wò / wú),AUDIO_TODO: replace with native clip saying 'wǒ' (third tone).,,,,8
-27,2,Single Choice,Which initial does 'jiào' start with?,Âm đầu (initial consonant) nào bắt đầu 'jiào'?,,,,,9
-28,2,Single Choice,Which final is in 'hǎo'?,Âm vần (final) nào trong 'hǎo'?,,,,,10
-29,2,Listening,What did you hear? (phrase: 'nǐ hǎo' or 'hǎo'?),Bạn nghe thấy gì? (cụm: 'nǐ hǎo' hay chỉ 'hǎo'?),AUDIO_TODO: replace with native clip saying 'nǐ hǎo'.,,,,11
-30,2,Speaking,Record: Say the question 'Nǐ jiào shénme míngzi?' (What is your name?),Ghi âm: Nói câu hỏi 'Nǐ jiào shénme míngzi?' (Bạn tên gì?),,,,,12
-31,2,Listening,What tone is used in 'jiào' in the audio?,Thanh nào dùng cho 'jiào' trong đoạn âm thanh?,AUDIO_TODO: replace with native clip saying 'jiào' (fourth tone).,,,,13
-32,2,Single Choice,"When saying 'nǐ hǎo' naturally, which is true?","Khi nói tự nhiên 'nǐ hǎo', điều nào đúng?",,,,,14
-33,2,Speaking,Record: Introduce yourself with 'Wǒ jiào ...' + your name,Ghi âm: Giới thiệu bản thân 'Wǒ jiào ...' + tên của bạn,,,,,15
-34,2,Listening,What did you hear? (speaker says 'Wǒ jiào Wáng Fāng'),Bạn nghe thấy gì? (người nói: 'Wǒ jiào Wáng Fāng'),AUDIO_TODO: replace with native clip saying 'wǒ jiào Wáng Fāng'.,,,,16
-35,2,Listening,What did you hear? (single word: 'jiào'),Bạn nghe thấy gì? (từ đơn: 'jiào'),AUDIO_TODO: replace with native clip saying 'jiào' (fourth tone).,,,,17
-36,2,Single Choice,Which initial is used in 'nǐ'?,Âm đầu (initial consonant) nào dùng trong 'nǐ'?,,,,,18
-37,3,Listening,Listen and select the correct answer (What did you hear?),Nghe và chọn đáp án đúng (Bạn nghe thấy gì?),AUDIO_TODO: clip_01 says 'nǐ hǎo'. Replace before deployment.,,,,1
-38,3,Listening,What did you hear? (Which name did the speaker say?),Bạn nghe thấy gì? (Người nói nói tên nào?),AUDIO_TODO: clip_02 says 'wǒ jiào Lǐ Míng'. Replace before deployment.,,,,2
-39,3,Listening,Listen and choose: Did the speaker ask a question or state a name?,Nghe và chọn: Người nói hỏi hay nói tên?,AUDIO_TODO: clip_03 says 'Nǐ jiào shénme míngzi？'. Replace before deployment.,,,,3
-40,3,Listening,What did you hear? (single word: 'wǒ'),Bạn nghe thấy gì? (từ đơn: 'wǒ'),AUDIO_TODO: clip_04 says 'wǒ'. Replace before deployment.,,,,4
-41,3,Listening,What did you hear? (Which greeting?),Bạn nghe thấy gì? (Lời chào nào?),AUDIO_TODO: clip_05 says 'nǐ hǎo' with natural prosody. Replace before deployment.,,,,5
-42,3,Listening,What name did the speaker say?,Người nói đã nói tên gì?,AUDIO_TODO: clip_06 says 'wǒ jiào Zhāng Wěi'. Replace before deployment.,,,,6
-43,3,Listening,Did the speaker say 'wǒ jiào' or 'nǐ jiào'?,Người nói nói 'wǒ jiào' hay 'nǐ jiào'?,AUDIO_TODO: clip_07 says 'wǒ jiào Wáng Fāng'. Replace before deployment.,,,,7
-44,3,Listening,What did you hear? (name: Lǐ Huá or Lǐ Míng?),Bạn nghe thấy gì? (tên: Lǐ Huá hay Lǐ Míng?),AUDIO_TODO: clip_08 says 'wǒ jiào Lǐ Huá'. Replace before deployment.,,,,8
-45,3,Listening,Listen: Did the speaker say a greeting or introduce themselves?,Nghe: Người nói chào hay tự giới thiệu?,AUDIO_TODO: clip_09 says 'nǐ hǎo'. Replace before deployment.,,,,9
-46,3,Listening,Which of these names did you hear?,Bạn nghe thấy tên nào trong số này?,AUDIO_TODO: clip_10 says 'wǒ jiào Wáng Míng'. Replace before deployment.,,,,10
-47,3,Listening,What did you hear? (short: 'jiào' vs 'jiāo'),Bạn nghe thấy gì? ('jiào' hay 'jiāo'?),AUDIO_TODO: clip_11 says 'jiào' (fourth tone). Replace before deployment.,,,,11
-48,3,Listening,Listen and choose the sentence you heard.,Nghe và chọn câu bạn nghe thấy.,AUDIO_TODO: clip_12 says 'Nǐ jiào shénme míngzi？'. Replace before deployment.,,,,12
-49,3,Listening,Identify: Did the speaker say 'wǒ' or 'wǒmen'?,Xác định: Người nói nói 'wǒ' hay 'wǒmen'?,AUDIO_TODO: clip_13 says 'wǒ'. Replace before deployment.,,,,13
-50,3,Listening,Which phrase did you hear? (options are short greetings),Bạn nghe thấy cụm từ nào? (các lựa chọn là lời chào ngắn),AUDIO_TODO: clip_14 says 'nǐ hǎo'. Replace before deployment.,,,,14
-51,3,Listening,What name did the speaker say? (Lǐ Míng / Lǐ Huá / Lǐ Fāng / Lǐ Xiǎo),Người nói nói tên nào? (Lǐ Míng / Lǐ Huá / Lǐ Fāng / Lǐ Xiǎo),AUDIO_TODO: clip_15 says 'wǒ jiào Lǐ Míng'. Replace before deployment.,,,,15
-52,3,Listening,Listen and select: Did the speaker use a question word 'shénme'?,Nghe và chọn: Người nói có dùng từ hỏi 'shénme' không?,AUDIO_TODO: clip_16 says 'Nǐ jiào shénme míngzi？'. Replace before deployment.,,,,16
-53,3,Listening,Which of these did the speaker say? (short sentence recognition),Người nói đã nói câu nào trong số này? (nhận biết câu ngắn),AUDIO_TODO: clip_17 says 'Wǒ jiào Zhāng Wěi'. Replace before deployment.,,,,17
-54,3,Listening,Final listening practice: Which greeting did you hear?,Luyện nghe cuối: Bạn nghe thấy lời chào nào?,AUDIO_TODO: clip_18 says 'nǐ hǎo' clearly. Replace before deployment.,,,,18
-55,4,Fill in the Blank,Fill the blank: I am called Li Ming. (Provide the name),Điền vào chỗ trống: Tôi tên là Lǐ Míng. (Điền tên),,,,,1
-56,4,Fill in the Blank,Fill the blank: 'What is your name?' (question expects '你叫什么名字？'),Điền vào chỗ trống: 'Bạn tên gì?' (đáp án: 你叫什么名字？),,,,,2
-57,4,Order Sentence,Order the words to make: I am called Wang Fang.,Sắp xếp các từ để thành câu: Tôi tên là Wáng Fāng.,,,,,3
-58,4,Order Sentence,Order the words to make a greeting: 'Hello.',Sắp xếp từ để thành lời chào: 'Xin chào.',,,,,4
-59,4,Single Choice,Which pronoun is used for 'you' (singular)?,Đại từ nào dùng cho 'bạn' (số ít)?,,,,,5
-60,4,Single Choice,"In 'Wǒ jiào Lǐ Míng', what is the verb?","Trong 'Wǒ jiào Lǐ Míng', từ nào là động từ?",,,,,6
-61,4,Fill in the Blank,Complete the sentence: 'You are called ...' (answer should start with '你叫'),Hoàn thành câu: 'Bạn tên là ...' (bắt đầu với '你叫'),,,,,7
-62,4,Single Choice,Which sentence correctly asks 'What is your name?',Câu nào đúng để hỏi 'Bạn tên gì?',,,,,8
-63,4,Order Sentence,Order the words to make 'What is your name?',Sắp xếp các từ để thành 'Bạn tên gì?',,,,,9
-64,4,Single Choice,Is '你好' decomposed as 'you good' in everyday speech?,"Trong giao tiếp hàng ngày, '你好' có được hiểu đen là 'bạn tốt' không?",,,,,10
-65,4,Fill in the Blank,Fill the blank: I am called Zhang Wei (HSK1 core),Điền vào chỗ trống: Tôi tên là Zhāng Wěi (HSK1),,,,,11
-66,4,Single Choice,Which pronoun is first person singular?,Đại từ nào là ngôi thứ nhất số ít?,,,,,12
-67,4,Order Sentence,Order: Make 'My name is Li Hua.',Sắp xếp: Tạo câu 'Tôi tên là Lǐ Huá.',,,,,13
-68,4,Single Choice,Which is the correct word order for simple introductions?,Trật tự từ nào đúng cho câu giới thiệu đơn giản?,,,,,14
-69,4,Fill in the Blank,Complete: 'Hello.' (fill with two-character greeting),Hoàn thành: 'Xin chào.' (điền cụm hai chữ),,,,,15
-70,4,Single Choice,Which is NOT required at HSK1 introduction: '很高兴认识你'?,Câu nào KHÔNG bắt buộc ở HSK1 khi giới thiệu: '很高兴认识你'?,,,,,16
-71,4,Order Sentence,Order to make: 'You are called Li Ming.',Sắp xếp để thành: 'Bạn tên là Lǐ Míng.',,,,,17
-72,4,Single Choice,Which word correctly fills the subject in '___ 叫 Lǐ Míng' for 'I am called Li Ming'?,Từ nào điền đúng làm chủ ngữ trong '___ 叫 Lǐ Míng' cho 'Tôi tên là Lǐ Míng'?,,,,,18
-73,5,Match Pairs,Match characters to English meaning,Ghép chữ với nghĩa tiếng Anh,,,,,1
-74,5,Single Choice,Read: Which sentence says 'Hello.'?,Đọc: Câu nào nói 'Xin chào.'?,,,,,2
-75,5,Single Choice,Which sentence means 'My name is Li Ming.'?,Câu nào nghĩa là 'Tôi tên là Lǐ Míng.'?,,,,,3
-76,5,Match Pairs,Match pinyin to characters,Ghép pinyin với chữ Hán,,,,,4
-77,5,Single Choice,Which character is read as 'hǎo'?,Chữ nào đọc là 'hǎo'?,,,,,5
-78,5,Single Choice,Which of these reads as 'nǐ jiào'?,Cái nào đọc là 'nǐ jiào'?,,,,,6
-79,5,Match Pairs,Match short sentences to meanings,Ghép câu ngắn với nghĩa,,,,,7
-80,5,Single Choice,Which character is visually similar to '我' and could be a plausible distractor?,Chữ nào nhìn tương tự '我' và có thể là phương án gây nhầm?,,,,,8
-81,5,Single Choice,Which sentence reads 'Nǐ hǎo ma?' (How are you?),Câu nào đọc là 'Nǐ hǎo ma?' (Bạn khỏe không?),,,,,9
-82,5,Match Pairs,Match characters to short English glosses (confusable choices included),Ghép chữ với nghĩa tiếng Anh ngắn (có lựa chọn gây nhầm),,,,,10
-83,5,Single Choice,Which character corresponds to 'jiào' among these confusable forms?,Chữ nào tương ứng với 'jiào' giữa các dạng dễ nhầm này?,,,,,11
-84,5,Single Choice,Which two characters together mean 'hello'?,Hai chữ nào kết hợp để thành 'xin chào'?,,,,,12
-85,5,Match Pairs,Match pinyin phrases to characters — focus on spacing and tone marks,Ghép cụm pinyin với chữ — chú ý khoảng trắng và dấu thanh,,,,,13
-86,5,Single Choice,Read this: '我叫张伟。' What does it mean?,Đọc: '我叫张伟。' nghĩa là gì?,,,,,14
-87,5,Single Choice,Which character in the sentence '你叫什么名字？' is the question word?,Trong câu '你叫什么名字？' chữ nào là từ để hỏi?,,,,,15
-88,5,Match Pairs,Match short sentences to pinyin (reading practice),Ghép câu ngắn với pinyin (luyện đọc),,,,,16
-89,5,Single Choice,Which character pair forms a polite greeting?,Cặp chữ nào tạo thành lời chào lịch sự?,,,,,17
-90,5,Single Choice,Which character in '我叫李明。' is the verb?,Trong '我叫李明。' chữ nào là động từ?,,,,,18
-91,6,Order Sentence,Order to make: A says 'Hello!',Sắp xếp để A nói 'Xin chào!',,,,,1
-92,6,Order Sentence,Order to make: B replies 'Hello!',Sắp xếp để B trả lời 'Xin chào!',,,,,2
-93,6,Order Sentence,Order to make: A asks 'What is your name?',Sắp xếp để A hỏi 'Bạn tên gì?',,,,,3
-94,6,Order Sentence,Order to make: B replies 'My name is Li Ming.',Sắp xếp để B trả lời 'Tôi tên là Lǐ Míng.',,,,,4
-95,6,Fill in the Blank,Dialogue completion: Fill the missing reply with a name (provide the name used by B).,Hoàn thành hội thoại: Điền tên còn thiếu (tên B dùng).,,,,,5
-96,6,Speaking,Perform the mini-dialogue as Speaker A: Say 'Nǐ hǎo' then ask 'Nǐ jiào shénme míngzi?',Làm vai A: Nói 'Nǐ hǎo' rồi hỏi 'Nǐ jiào shénme míngzi?',,,,,6
-97,6,Speaking,Perform the mini-dialogue as Speaker B: Greet and reply with your name.,Làm vai B: Chào và trả lời bằng tên của bạn.,,,,,7
-98,6,Fill in the Blank,Dialogue completion: A greets and B replies — fill B's greeting,Hoàn thành hội thoại: A chào và B trả lời — điền lời chào của B,,,,,8
-99,6,Single Choice,"In the role-play, which turn asks for the name?","Trong vai, lượt nói nào hỏi tên?",,,,,9
-100,6,Single Choice,Which is the correct polite short reply to 'Nǐ hǎo'?,Phản hồi ngắn lịch sự với 'Nǐ hǎo' là gì?,,,,,10
-101,6,Order Sentence,"Order to make a two-line dialogue: A greets, B introduces themselves.","Sắp xếp thành hội thoại hai dòng: A chào, B tự giới thiệu.",,,,,11
-102,6,Fill in the Blank,Dialogue: Replace the name with a different plausible HSK1 name.,Hội thoại: Thay tên bằng một tên khác phù hợp HSK1.,,,,,12
-103,6,Speaking,Free role-play: Greet and introduce yourself in one turn (record).,Đóng vai tự do: Chào và tự giới thiệu trong một lượt (ghi âm).,,,,,13
-104,6,Single Choice,Which reply completes the dialogue politely? A: 你好！ B: ___,Phản hồi nào hoàn thành hội thoại lịch sự? A: 你好！ B: ___,,,,,14
-105,6,Fill in the Blank,"Complete optional extension: Add 'Nice to meet you' (optional, not required for HSK1).",Hoàn thành mở rộng tùy chọn: Thêm 'Rất vui được biết bạn' (không bắt buộc cho HSK1).,,,,,15
-106,6,Order Sentence,Order to make: A asks name; B answers with surname only (HSK2 optional 'xìng') — optional extension,Sắp xếp để thành: A hỏi tên; B trả lời chỉ họ (mở rộng HSK2 'xìng') — tùy chọn,,,,,16
-107,6,Single Choice,"During role-play, what is the common verb used to say 'My name is ...'?","Trong đóng vai, động từ phổ biến để nói 'Tôi tên là ...' là gì?",,,,,17
-108,6,Speaking,"Perform both roles: A says 'Nǐ hǎo', B replies and asks back 'Nǐ ne?' (record short exchange).","Thực hiện cả hai vai: A nói 'Nǐ hǎo', B trả lời và hỏi lại 'Nǐ ne?' (ghi âm).",,,,,18
-109,7,Single Choice,Which character means 'you'?,Chữ nào nghĩa là 'bạn'?,,,,,1
-110,7,Single Choice,Which pinyin corresponds to 叫?,Pinyin nào tương ứng với 叫?,,,,,2
-111,7,Listening,Listen and select the correct answer,Nghe và chọn đáp án đúng,AUDIO_TODO: final_clip_1 says 'wǒ jiào Lǐ Míng'. Replace before deployment.,,,,3
-112,7,Fill in the Blank,Fill: 'My name is ...' (fill the name in characters),Điền: 'Tôi tên là ...' (điền tên bằng chữ Hán),,,,,4
-113,7,Single Choice,Which is the correct greeting for 'Hello'?,Câu chào nào đúng cho 'Xin chào'?,,,,,5
-114,7,Listening,What did you hear? (Which name?),Bạn nghe thấy gì? (Tên nào?),AUDIO_TODO: final_clip_2 says 'wǒ jiào Wáng Fāng'. Replace before deployment.,,,,6
-115,7,Single Choice,Which pronoun contrasts with 我 (I)?,Đại từ nào tương phản với 我 (tôi)?,,,,,7
-116,7,Speaking,Record: Say 'Wǒ jiào [your name].' (spoken production),Ghi âm: Nói 'Wǒ jiào [tên bạn].' (sản xuất nói),,,,,8
-117,7,Fill in the Blank,Fill the missing word in '___ hǎo' to form a greeting.,Điền từ còn thiếu vào '___ hǎo' để tạo thành lời chào.,,,,,9
-118,7,Single Choice,Which option is a correct way to ask 'What is your name?',Phương án nào là cách hỏi đúng 'Bạn tên gì?',,,,,10
-119,7,Single Choice,Which of these is NOT a correct HSK1 core way to say 'My name is ...'?,Phương án nào KHÔNG phải là cách HSK1 chuẩn để nói 'Tôi tên là ...'?,,,,,11
-120,7,Listening,Listen: Did the speaker say a greeting or a question?,Nghe: Người nói đã nói lời chào hay một câu hỏi?,AUDIO_TODO: final_clip_3 says 'nǐ jiào shénme míngzi？'. Replace before deployment.,,,,12
-121,7,Fill in the Blank,Write the character for 'I' in the sentence 'I am called ...'.,Viết chữ Hán cho 'I' trong câu 'Tôi tên là ...'.,,,,,13
-122,7,Single Choice,Which of these is a correct short self-introduction at HSK1?,Cái nào là tự giới thiệu ngắn đúng ở HSK1?,,,,,14
-123,7,Listening,Listen and select the correct phrase you heard.,Nghe và chọn cụm từ bạn nghe thấy.,AUDIO_TODO: final_clip_4 says 'nǐ hǎo'. Replace before deployment.,,,,15
-124,7,Speaking,Final speaking: Record a 1-sentence self-introduction 'Wǒ jiào [name]'.,Nói cuối: Ghi âm 1 câu tự giới thiệu 'Wǒ jiào [tên]'.,,,,,16
-125,7,Fill in the Blank,Fill: Replace the name in the sentence with 'Wáng Míng'.,Điền: Thay tên trong câu bằng 'Wáng Míng'.,,,,,17
-126,7,Single Choice,Final check: Which of these is marked as colloquial and NOT HSK1 required?,Kiểm tra cuối: Cái nào được đánh dấu là thân thoại và KHÔNG bắt buộc HSK1?,,,,,18
-127,8,Flashcard,Flashcard: 谢谢,Thẻ từ: 谢谢,,,,,1
-128,8,Flashcard,Flashcard: 不客气,Thẻ từ: 不客气,,,,,2
-129,8,Flashcard,Flashcard: 再见,Thẻ từ: 再见,,,,,3
-130,8,Flashcard,Flashcard: 对不起,Thẻ từ: 对不起,,,,,4
-131,8,Match Pairs,Match each hanzi to the pinyin and English meaning,Ghép chữ Hán với pinyin và nghĩa tiếng Anh,,,,,5
-132,9,Speaking,Say the phrase 谢谢 aloud (practice tone and rhythm),Đọc lớn cụm 谢谢 (luyện thanh và nhịp),,,,,6
-133,9,Speaking,Say the phrase 不客气 aloud (note bù → bú before kèqi),Đọc lớn cụm 不客气 (lưu ý bù → bú trước kèqi),,,,,7
-134,9,Speaking,Say the phrase 再见 aloud (practice two falling tones),Đọc lớn cụm 再见 (luyện hai thanh hạ),,,,,8
-135,9,Speaking,Say the phrase 对不起 aloud (practice natural reduction of 'bu'),Đọc lớn cụm 对不起 (luyện giảm âm 'bu'),,,,,9
-136,10,Multiple Choice,Which is the best reply to '谢谢' to mean 'you're welcome'?,Trả lời nào phù hợp nhất cho '谢谢' để nói 'không có gì'?,,,不客气 is the standard reply to thanks. Note: 没关系 usually replies to apologies and is not the default 'you're welcome'.,不客气 là trả lời chuẩn cho lời cảm ơn. Lưu ý: 没关系 chủ yếu trả lời lời xin lỗi và không phải là 'không có gì' mặc định.,10
-137,10,Multiple Choice,If someone says '对不起' what is the common reply?,Nếu ai đó nói '对不起' câu trả lời thông thường là gì?,,,没关系 ('it's okay') is the common reply to an apology.,没关系 ('không sao') là câu trả lời phổ biến cho lời xin lỗi.,11
-138,10,Fill in the Blank,Complete the response: A: 谢谢你。B: ____。,Hoàn thành câu trả lời: A: 谢谢你。B: ____。,,,Use 不客气 to reply to thanks. 没关系 is not selected here because it's mainly for apologies.,Dùng 不客气 để trả lời lời cảm ơn. 没关系 không được chọn vì thường dùng cho lời xin lỗi.,12
-139,10,Multiple Choice,Which phrase is used to say 'goodbye'?,Cụm nào được dùng để nói 'tạm biệt'?,,,,,13
-140,11,Listening,Listen and select the correct answer: (audio says) 'xièxie nǐ.',Nghe và chọn đáp án đúng: (âm thanh nói) 'xièxie nǐ.',,,The audio contains 'xièxie nǐ' meaning 'thank you'.,Âm thanh là 'xièxie nǐ' nghĩa là 'cảm ơn'.,14
-141,11,Listening,What did you hear? (audio: 'duìbuqǐ'),Bạn nghe thấy gì? (âm thanh: 'duìbuqǐ'),,,The audio is an apology: 'duìbuqǐ' (sorry).,Âm thanh là lời xin lỗi: 'duìbuqǐ' (xin lỗi).,15
-142,11,Fill in the Blank,Audio blank: A: 对不起。B: ____。(listen and fill the reply),Điền vào chỗ trống theo âm thanh: A: 对不起。B: ____。(nghe và điền),,,Typical reply to an apology is 没关系 ('it's okay').,Trả lời thông thường cho lời xin lỗi là 没关系 ('không sao').,16
-143,12,Match Pairs,Match each dialogue line to its meaning,Ghép từng câu hội thoại với nghĩa của nó,,,,,17
-144,12,Single Choice,In 'A: 对不起。B: 没关系。' who is apologizing?,Trong 'A: 对不起。B: 没关系。' ai đang xin lỗi?,,,A says 对不起 (I'm sorry); B replies 没关系 (it's okay).,A nói 对不起 (xin lỗi); B trả lời 没关系 (không sao).,18
-145,13,Order Sentence,Correct full sentence for a short apology exchange,Câu hoàn chỉnh đúng cho cuộc trao đổi xin lỗi ngắn,,,,,19
-146,13,Order Sentence,Correct full sentence for a thank-you exchange,Câu hoàn chỉnh đúng cho cuộc trao đổi cảm ơn,,,,,20
-147,13,Translate to CN,Translate to Chinese: 'I'm leaving. Goodbye!' (short reply expected),Dịch sang tiếng Trung: 'I'm leaving. Goodbye!' (kỳ vọng câu ngắn),,,,,21
-148,14,Multiple Choice,Which written form matches the audio (you hear 'bú kèqi')?,Hình thức viết nào khớp với âm thanh (bạn nghe 'bú kèqi')?,,,The audio corresponds to the phrase 不客气 (bú kèqi).,Âm thanh tương ứng với 不客气 (bú kèqi).,22
-149,14,Translate to CN,Type a common short reply to '对不起' (apology).,Gõ câu trả lời ngắn thông dụng cho '对不起' (xin lỗi).,,,,,23
-150,14,Speaking,Speak the appropriate reply to '谢谢' aloud (expected: 不客气),Nói lớn đáp lại '谢谢' (kỳ vọng: 不客气),,,,,24
+id,section,quiz_type,question_en,question_vi,audio_url,image_url,explanation_en,explanation_vi,order
+1,1,Flashcard,What does 你好 mean?,你好 có nghĩa là gì?,,,,,1
+2,1,Flashcard,What does 再见 mean?,再见 có nghĩa là gì?,,,,,2
+3,1,Flashcard,What does 早上好 mean?,早上好 có nghĩa là gì?,,,,,3
+4,1,Flashcard,What does 晚上好 mean?,晚上好 có nghĩa là gì?,,,,,4
+5,1,Match Pairs,Match the greetings with their Pinyin.,Ghép các lời chào với Pinyin của chúng.,,,,,5
+6,1,Match Pairs,Match the greetings with their meanings.,Ghép các lời chào với nghĩa của chúng.,,,,,6
+7,1,Match Pairs,Match the Pinyin with their meanings.,Ghép Pinyin với nghĩa của chúng.,,,,,7
+8,2,Multiple Choice,Which tone is a high-level tone in Mandarin?,Thanh nào là thanh cao và đều trong tiếng Trung?,,,,,1
+9,2,Multiple Choice,Which tone is known as the rising tone?,Thanh nào được biết đến là thanh đi lên?,,,,,2
+10,2,Multiple Choice,Which tone starts mid and dips before rising?,"Thanh nào bắt đầu từ giữa, xuống rồi lên?",,,,,3
+11,2,Multiple Choice,Which tone is a sharp falling tone?,Thanh nào là thanh rơi nhanh?,,,,,4
+12,2,Multiple Choice,Which of the following is NOT a tone in Mandarin?,"Trong các lựa chọn sau, cái nào KHÔNG phải là thanh điệu trong tiếng Trung?",,,,,5
+13,2,Multiple Choice,"Which tone is described as a low, dipping tone?","Thanh nào được mô tả là thanh thấp, nhúng?",,,,,6
+14,2,Multiple Choice,Which tone is often used for exclamations?,Thanh nào thường được dùng cho cảm thán?,,,,,7
+15,2,Multiple Choice,Which tone is flat and steady?,Thanh nào là phẳng và ổn định?,,,,,8
+16,2,Multiple Choice,Which tone is characterized by a quick drop?,Thanh nào có đặc điểm là rơi nhanh?,,,,,9
+17,3,Listening,Listen and select the correct answer,Nghe và chọn câu trả lời đúng,audio/tone1_你好.mp3,,,,1
+18,3,Listening,Listen and select the correct answer,Nghe và chọn câu trả lời đúng,audio/tone2_妈妈.mp3,,,,2
+19,3,Listening,Listen and select the correct answer,Nghe và chọn câu trả lời đúng,audio/tone3_老师.mp3,,,,3
+20,3,Listening,Listen and select the correct answer,Nghe và chọn câu trả lời đúng,audio/tone4_喝水.mp3,,,,4
+21,3,Listening,Listen and select the correct answer,Nghe và chọn câu trả lời đúng,audio/tone5_中国.mp3,,,,5
+22,3,Listening,Listen and select the correct answer,Nghe và chọn câu trả lời đúng,audio/tone6_朋友.mp3,,,,6
+23,3,Listening,Listen and select the correct answer,Nghe và chọn câu trả lời đúng,audio/tone7_学校.mp3,,,,7
+24,3,Listening,Listen and select the correct answer,Nghe và chọn câu trả lời đúng,audio/tone8_天气.mp3,,,,8
+25,3,Listening,Listen and select the correct answer,Nghe và chọn câu trả lời đúng,audio/tone9_电视.mp3,,,,9
+26,3,Listening,Listen and select the correct answer,Nghe và chọn câu trả lời đúng,audio/tone10_学生.mp3,,,,10
+27,3,Listening,Listen and select the correct answer,Nghe và chọn câu trả lời đúng,audio/tone11_老师.mp3,,,,11
+28,3,Listening,Listen and select the correct answer,Nghe và chọn câu trả lời đúng,audio/tone12_苹果.mp3,,,,12
+29,3,Listening,Listen and select the correct answer,Nghe và chọn câu trả lời đúng,audio/tone13_房子.mp3,,,,13
+30,3,Listening,Listen and select the correct answer,Nghe và chọn câu trả lời đúng,audio/tone14_桌子.mp3,,,,14
+31,3,Listening,Listen and select the correct answer,Nghe và chọn câu trả lời đúng,audio/tone15_椅子.mp3,,,,15
+32,3,Listening,Listen and select the correct answer,Nghe và chọn câu trả lời đúng,audio/tone16_书本.mp3,,,,16
+33,3,Listening,Listen and select the correct answer,Nghe và chọn câu trả lời đúng,audio/tone17_电话.mp3,,,,17
+34,3,Listening,Listen and select the correct answer,Nghe và chọn câu trả lời đúng,audio/tone18_桌子.mp3,,,,18
+35,4,Speaking,Practice saying '你好' with the correct tones.,Luyện tập nói '你好' với đúng ngữ điệu.,,,,,1
+36,4,Speaking,Practice saying '再见' with the correct tones.,Luyện tập nói '再见' với đúng ngữ điệu.,,,,,2
+37,4,Speaking,Practice saying '早上好' with the correct tones.,Luyện tập nói '早上好' với đúng ngữ điệu.,,,,,3
+38,4,Speaking,Practice saying '晚上好' with the correct tones.,Luyện tập nói '晚上好' với đúng ngữ điệu.,,,,,4
+39,4,Speaking,Role-play: Greet your friend in the morning.,Nhập vai: Chào bạn vào buổi sáng.,,,Pretend you see a friend in the morning and greet them.,Giả vờ bạn gặp một người bạn vào buổi sáng và chào họ.,5
+40,4,Speaking,Role-play: Say goodbye to a friend.,Nhập vai: Chào tạm biệt bạn.,,,Pretend you are leaving a friend's house and say goodbye.,Giả vờ bạn rời khỏi nhà một người bạn và chào tạm biệt.,6
+41,4,Speaking,Role-play: Greet someone in the evening.,Nhập vai: Chào ai đó vào buổi tối.,,,Imagine meeting someone in the evening and greet them.,Hãy tưởng tượng bạn gặp ai đó vào buổi tối và chào họ.,7
+42,4,Speaking,Role-play: Respond to a greeting.,Nhập vai: Đáp lại lời chào.,,,Imagine someone greets you with '你好' and respond appropriately.,Hãy tưởng tượng ai đó chào bạn bằng '你好' và đáp lại phù hợp.,8
+43,5,Fill in the Blank,Fill in the blank with the appropriate greeting.,Điền vào chỗ trống với lời chào phù hợp.,,,,,1
+44,5,Fill in the Blank,Fill in the blank with the appropriate farewell.,Điền vào chỗ trống với lời tạm biệt phù hợp.,,,,,2
+45,5,Fill in the Blank,Fill in the blank with the appropriate morning greeting.,Điền vào chỗ trống với lời chào buổi sáng phù hợp.,,,,,3
+46,5,Fill in the Blank,Fill in the blank with the appropriate evening greeting.,Điền vào chỗ trống với lời chào buổi tối phù hợp.,,,,,4
+47,5,Fill in the Blank,Fill in the blank with the appropriate greeting.,Điền vào chỗ trống với lời chào phù hợp.,,,,,5
+48,5,Fill in the Blank,Fill in the blank with the appropriate phrase.,Điền vào chỗ trống với cụm từ phù hợp.,,,,,6
+49,5,Fill in the Blank,Fill in the blank with the appropriate morning greeting.,Điền vào chỗ trống với lời chào buổi sáng phù hợp.,,,,,7
+50,5,Fill in the Blank,Fill in the blank with the appropriate evening greeting.,Điền vào chỗ trống với lời chào buổi tối phù hợp.,,,,,8
+51,5,Fill in the Blank,Fill in the blank with the appropriate greeting.,Điền vào chỗ trống với lời chào phù hợp.,,,,,9
+52,5,Fill in the Blank,Fill in the blank with the appropriate farewell.,Điền vào chỗ trống với lời tạm biệt phù hợp.,,,,,10
+53,5,Fill in the Blank,Fill in the blank with the appropriate morning greeting.,Điền vào chỗ trống với lời chào buổi sáng phù hợp.,,,,,11
+54,5,Fill in the Blank,Fill in the blank with the appropriate evening greeting.,Điền vào chỗ trống với lời chào buổi tối phù hợp.,,,,,12
+55,6,Flashcard,Learn the greeting 你好,Hãy học câu chào 你好,,,,,1
+56,6,Flashcard,Learn the farewell 再见,Hãy học câu tạm biệt 再见,,,,,2
+57,6,Flashcard,Learn the morning greeting 早上好,Hãy học câu chào buổi sáng 早上好,,,,,3
+58,6,Flashcard,Learn the evening greeting 晚上好,Hãy học câu chào buổi tối 晚上好,,,,,4
+59,6,Single Choice,What is the correct response to 你好?,Đáp lại 你好 như thế nào là đúng?,,,,,5
+60,6,Single Choice,What is an appropriate farewell?,Câu tạm biệt nào là phù hợp?,,,,,6
+61,6,Multiple Choice,Select all greetings.,Chọn tất cả các câu chào hỏi.,,,,,7
+62,6,Match Pairs,Match the greeting with its pinyin.,Ghép câu chào với cách đọc pinyin của nó.,,,,,8
+63,6,Order Sentence,"Put the sentence in order: 你好, 我是老师.","Sắp xếp câu cho đúng: 你好, 我是老师.",,,,,9
+64,6,Fill in the Blank,Complete the greeting: 早上___,Hoàn thành câu chào: 早上___,,,,,10
+65,6,Listening,Listen and select the correct answer.,Nghe và chọn câu trả lời đúng.,,,,,11
+66,6,Speaking,Say 'Good morning' in Chinese.,Nói 'Chào buổi sáng' bằng tiếng Trung.,,,,,12
+67,6,Translate to CN,Translate 'Goodbye' to Chinese.,Dịch 'Tạm biệt' sang tiếng Trung.,,,,,13
+68,6,Translate from CN,Translate '晚上好' to English.,Dịch '晚上好' sang tiếng Anh.,,,,,14
+69,6,Writing,Write 'Hello' in Chinese.,Viết 'Xin chào' bằng tiếng Trung.,,,,,15
+70,7,Flashcard,Learn the new word.,Học từ mới.,,,,,1
+71,7,Flashcard,Learn the new word.,Học từ mới.,,,,,2
+72,7,Order Sentence,Arrange the words to form a correct sentence.,Sắp xếp các từ để tạo thành câu đúng.,,,,,3
+73,7,Order Sentence,Arrange the words to form a correct sentence.,Sắp xếp các từ để tạo thành câu đúng.,,,,,4
+74,7,Single Choice,Select the correct tone for '好' in '你好'.,Chọn thanh điệu đúng của '好' trong '你好'.,,,,,5
+75,7,Single Choice,Select the correct tone for '见' in '再见'.,Chọn thanh điệu đúng của '见' trong '再见'.,,,,,6
+76,7,Fill in the Blank,Fill in the blank with the correct word.,Điền vào chỗ trống với từ đúng.,,,,,7
+77,7,Fill in the Blank,Fill in the blank with the correct word.,Điền vào chỗ trống với từ đúng.,,,,,8
+78,7,Match Pairs,Match the phrases with their meanings.,Nối các cụm từ với ý nghĩa của chúng.,,,,,9
+79,7,Match Pairs,Match the words with their Pinyin.,Nối các từ với Pinyin của chúng.,,,,,10
+80,7,Listening,Listen and select the correct answer.,Nghe và chọn câu trả lời đúng.,,,,,11
+81,7,Listening,What did you hear?,Bạn đã nghe thấy gì?,,,,,12
+82,7,Multiple Choice,Which of the following are greetings?,Câu nào sau đây là chào hỏi?,,,,,13
+83,7,Multiple Choice,Select all phrases that contain '好'.,Chọn tất cả các cụm từ có chứa '好'.,,,,,14
+84,7,Speaking,Say 'Good morning' in Chinese.,Nói 'Chào buổi sáng' bằng tiếng Trung.,,,,,15
+85,7,Speaking,Say 'Good evening' in Chinese.,Nói 'Chào buổi tối' bằng tiếng Trung.,,,,,16
+86,7,Translate to CN,Translate 'Hello' to Chinese.,Dịch 'Xin chào' sang tiếng Trung.,,,,,17
+87,7,Translate to CN,Translate 'Goodbye' to Chinese.,Dịch 'Tạm biệt' sang tiếng Trung.,,,,,18
+88,8,Flashcard,Learn the word '谢谢',Học từ '谢谢',,,,,1
+89,8,Flashcard,Learn the word '对不起',Học từ '对不起',,,,,2
+90,8,Flashcard,Learn the phrase '没关系',Học cụm từ '没关系',,,,,3
+91,8,Flashcard,Learn the word '请',Học từ '请',,,,,4
+92,8,Flashcard,Learn the phrase '不客气',Học cụm từ '不客气',,,,,5
+93,8,Match Pairs,Match the words with their meanings,Nối các từ với nghĩa của chúng,,,,,6
+94,8,Match Pairs,Match the words with their English meanings,Nối các từ với nghĩa tiếng Anh của chúng,,,,,7
+95,9,Multiple Choice,Which sentence correctly uses '谢谢' to express gratitude?,Câu nào sử dụng '谢谢' một cách đúng đắn để bày tỏ lòng biết ơn?,,,The correct structure is '谢谢 + Object'.,Cấu trúc đúng là '谢谢 + Đối tượng'.,1
+96,9,Multiple Choice,What is a polite response to '谢谢'?,Đáp lại '谢谢' một cách lịch sự là gì?,,,A common response to '谢谢' is '不客气' or '没关系'.,Một câu trả lời phổ biến cho '谢谢' là '不客气' hoặc '没关系'.,2
+97,9,Fill in the Blank,Complete the sentence: 他 ______ 很好。,Hoàn thành câu: 他 ______ 很好。,,,Choose the appropriate word to express apology.,Chọn từ phù hợp để bày tỏ lời xin lỗi.,3
+98,9,Fill in the Blank,Fill in the blank: 我们 ______ 你。,Điền vào chỗ trống: 我们 ______ 你。,,,Select the word that completes the sentence expressing gratitude.,Chọn từ hoàn thành câu bày tỏ lòng biết ơn.,4
+99,9,Multiple Choice,How would you apologize to someone formally?,Làm thế nào bạn có thể xin lỗi ai đó một cách trang trọng?,,,The formal way to apologize is using '对不起'.,Cách trang trọng để xin lỗi là sử dụng '对不起'.,5
+100,9,Fill in the Blank,"Complete the apology: ______, 我迟到了。","Hoàn thành lời xin lỗi: ______, 我迟到了。",,,Use '对不起' to apologize for being late.,Sử dụng '对不起' để xin lỗi vì đến muộn.,6
+101,9,Multiple Choice,Which is not a correct response to '谢谢'?,Câu nào không phải là câu trả lời đúng cho '谢谢'?,,,"'对不起' is used to apologize, not to respond to '谢谢'.","'对不起' được dùng để xin lỗi, không phải để đáp lại '谢谢'.",7
+102,9,Fill in the Blank,Fill in the blank: 他 ______ 我。,Điền vào chỗ trống: 他 ______ 我。,,,Select the word that conveys the meaning of gratitude.,Chọn từ diễn đạt ý nghĩa của lòng biết ơn.,8
+103,9,Multiple Choice,Which sentence uses '对不起' correctly?,Câu nào sử dụng '对不起' đúng cách?,,,The phrase '对不起' is used to apologize to someone.,Cụm từ '对不起' được dùng để xin lỗi ai đó.,9
+104,9,Fill in the Blank,"Complete the sentence: ______, 我不懂。","Hoàn thành câu: ______, 我不懂。",,,'对不起' can be used to politely express that you don't understand.,'对不起' có thể được dùng để lịch sự bày tỏ rằng bạn không hiểu.,10
+105,9,Multiple Choice,How would you say 'thank you' in a simple sentence?,Làm thế nào bạn nói 'cảm ơn' trong một câu đơn giản?,,,The simplest form is just '谢谢'.,Hình thức đơn giản nhất chỉ là '谢谢'.,11
+106,9,Fill in the Blank,Fill in the blank: 你 ______ 我。,Điền vào chỗ trống: 你 ______ 我。,,,Choose the word that completes the sentence expressing gratitude.,Chọn từ hoàn thành câu bày tỏ lòng biết ơn.,12
+107,9,Multiple Choice,What is a way to dismiss an apology politely?,Cách nào để phớt lờ một lời xin lỗi một cách lịch sự?,,,Saying '没关系' means 'it's okay' or 'no problem'.,Nói '没关系' có nghĩa là 'không sao' hoặc 'không vấn đề gì'.,13

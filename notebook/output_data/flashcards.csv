@@ -1,10 +1,16 @@
 quiz_id,word_hanzi,pinyin,definition_en,definition_vi,example_sentence,example_pinyin,example_meaning_en,example_meaning_vi,extra_info_md
-1,你好,nǐ hǎo,hello (fixed greeting),xin chào (cụm chào cố định),你好。,nǐ hǎo。,Hello.,Xin chào.,Note: 你好 is a fixed greeting. In casual speech tone sandhi may apply to 你好 (nǐ typically becomes a half-third).
-2,你,nǐ,you (singular),bạn / bạn (ngôi thứ hai số ít),你好吗？,nǐ hǎo ma？,How are you?,Bạn khỏe không?,
-3,好,hǎo,good / well,tốt / khỏe,我很好。,wǒ hěn hǎo。,I am very well.,Tôi rất khỏe.,
-4,我,wǒ,I / me,tôi / mình,我是学生。,wǒ shì xuésheng。,I am a student.,Tôi là học sinh.,
-5,叫,jiào,to be called; to call,được gọi là; gọi,我叫李明。,wǒ jiào Lǐ Míng。,My name is Li Ming.,Tôi tên là Lý Minh.,Note: 叫 is used in introductions: 我叫 + name。
-127,谢谢,xièxie,thank you,cảm ơn,谢谢你。,xièxie nǐ,Thank you.,Cảm ơn bạn.,Note: the second syllable xie is commonly pronounced in a neutral tone in natural speech.
-128,不客气,bú kèqi,you're welcome / don't mention it,không cần khách sáo / không có gì,A: 谢谢。B: 不客气。,A: xièxie. B: bú kèqi.,A: Thank you. B: You're welcome.,A: Cảm ơn. B: Không có gì.,
-129,再见,zàijiàn,goodbye,tạm biệt,我要走了。再见！,wǒ yào zǒu le. zàijiàn!,I'm leaving. Goodbye!,Mình đi đây. Tạm biệt!,
-130,对不起,duìbuqǐ,sorry / excuse me,xin lỗi,对不起，我迟到了。,"duìbuqǐ, wǒ chídào le","Sorry, I am late.","Xin lỗi, tôi đến muộn.",Note: in duìbuqǐ the middle syllable 'bu' is often reduced in natural speech.
+1,你好,nǐ hǎo,Hello,Xin chào,你好，我是学生。,"Nǐ hǎo, wǒ shì xuéshēng.","Hello, I am a student.","Xin chào, tôi là sinh viên.",
+2,再见,zài jiàn,Goodbye,Tạm biệt,再见，明天见！,"Zài jiàn, míngtiān jiàn!","Goodbye, see you tomorrow!","Tạm biệt, hẹn gặp lại ngày mai!",
+3,早上好,zǎo shàng hǎo,Good morning,Chào buổi sáng,早上好！你今天怎么样？,Zǎo shàng hǎo! Nǐ jīntiān zěnmeyàng?,Good morning! How are you today?,Chào buổi sáng! Hôm nay bạn thế nào?,
+4,晚上好,wǎn shàng hǎo,Good evening,Chào buổi tối,晚上好，欢迎来到我们的聚会！,"Wǎn shàng hǎo, huānyíng lái dào wǒmen de jùhuì!","Good evening, welcome to our party!","Chào buổi tối, chào mừng đến bữa tiệc của chúng tôi!",
+55,你好,nǐ hǎo,Hello,Xin chào,你好，我是学生。,"Nǐ hǎo, wǒ shì xuéshēng.","Hello, I am a student.","Xin chào, tôi là học sinh.",
+56,再见,zài jiàn,Goodbye,Tạm biệt,明天见，再见！,"Míngtiān jiàn, zài jiàn!","See you tomorrow, goodbye!","Hẹn gặp lại vào ngày mai, tạm biệt!",
+57,早上好,zǎo shàng hǎo,Good morning,Chào buổi sáng,早上好，你吃早餐了吗？,"Zǎo shàng hǎo, nǐ chī zǎocān le ma?","Good morning, have you had breakfast?","Chào buổi sáng, bạn đã ăn sáng chưa?",
+58,晚上好,wǎn shàng hǎo,Good evening,Chào buổi tối,晚上好，今天过得怎么样？,"Wǎn shàng hǎo, jīntiān guò de zěnme yàng?","Good evening, how was your day?","Chào buổi tối, hôm nay của bạn thế nào?",
+70,你好,nǐ hǎo,Hello,Xin chào,你好吗？,nǐ hǎo ma?,How are you?,Bạn khỏe không?,Used as a greeting.
+71,再见,zài jiàn,Goodbye,Tạm biệt,明天见，再见！,"míng tiān jiàn, zài jiàn!","See you tomorrow, goodbye!","Hẹn gặp lại vào ngày mai, tạm biệt!",Used when parting.
+88,谢谢,xièxiè,Thank you,Cảm ơn,谢谢你的帮助。,Xièxiè nǐ de bāngzhù.,Thank you for your help.,Cảm ơn sự giúp đỡ của bạn.,
+89,对不起,duìbùqǐ,Sorry,Xin lỗi,对不起，我迟到了。,"Duìbùqǐ, wǒ chídào le.","Sorry, I am late.","Xin lỗi, tôi đến muộn.",
+90,没关系,méi guānxi,It's okay,Không sao đâu,没关系，不用担心。,"Méi guānxi, bùyòng dānxīn.","It's okay, don't worry.","Không sao đâu, đừng lo.",
+91,请,qǐng,Please,Làm ơn,请进。,Qǐng jìn.,Please come in.,Xin mời vào.,
+92,不客气,bù kèqì,You're welcome,Không có chi,谢谢你！不客气。,Xièxiè nǐ! Bù kèqì.,Thank you! You're welcome.,Cảm ơn bạn! Không có chi.,

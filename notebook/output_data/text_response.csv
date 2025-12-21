@@ -1,3 +1,6 @@
 quiz_id,source_text,accepted_answers,is_strict
-147,I'm leaving. Goodbye!,"['我要走了。再见！', '我要走了。再见。', '我要走了。再见']",False
-149,Reply to '对不起',"['没关系', '没关系。', '没关系！']",False
+67,,['再见'],False
+68,,['Good evening'],False
+69,,['你好'],False
+86,Hello,['你好'],False
+87,Goodbye,['再见'],False
